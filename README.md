@@ -1,4 +1,4 @@
-CloudCast ML - Real-Time Rain Prediction App
+# CloudCast ML - Real-Time Rain Prediction App
 
 CloudCast ML is a web application that predicts whether it will rain in a given city using real-time weather data from the OpenWeatherMap API and a machine learning model (Random Forest Classifier). Built with Python and Streamlit.
 
@@ -42,5 +42,6 @@ Deployment Instructions (Streamlit Cloud):
 
 Author:
 Spoorthy Reddy Alimineti
+
 
 
